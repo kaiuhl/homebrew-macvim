@@ -2,7 +2,7 @@ require 'formula'
 
 class Macvim < Formula
   homepage 'https://github.com/alloy/macvim/wiki'
-  head 'https://github.com/alloy/macvim.git', :branch => 'split-browser'
+  head 'https://github.com/peteschaffner/macvim.git', :branch => 'master'
 
   def options
   [
