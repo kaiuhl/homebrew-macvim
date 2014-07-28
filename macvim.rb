@@ -2,7 +2,7 @@ require 'formula'
 
 class Macvim < Formula
   homepage 'https://github.com/alloy/macvim/wiki'
-  head 'https://github.com/peteschaffner/macvim.git', :branch => 'master'
+  head 'https://github.com/b4winckler/macvim.git', :branch => 'master'
 
   def options
   [
